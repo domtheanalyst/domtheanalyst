@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Dominic, I am a software developer and data analyst, combining the best of both worlds to build robust software products.
+I enjoy coding in JavaScript and Python.
+I am fascinated by AI Technology and see myself building AI-driven software products soon.
+I am a polymath with a vast array of interests from technology to finance, from music to flying drones and traveling the world.
+In my spare time, I like to explore Forex charts and watch football, especially Liverpool. I hope to watch from Anfield one day.
 
 <!--
 **domtheanalyst/domtheanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
